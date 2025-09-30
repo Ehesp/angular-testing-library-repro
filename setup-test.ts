@@ -9,8 +9,6 @@ import {
 import { NgModule, provideZonelessChangeDetection } from '@angular/core';
 import { getTestBed } from '@angular/core/testing';
 
-console.log('Hello');
-
 @NgModule({
   providers: [provideZonelessChangeDetection()],
 })
