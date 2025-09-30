@@ -1,0 +1,23 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@analogjs/vitest-angular": "^1.21.1",
+    "@angular/common": "^20.3.2",
+    "@angular/compiler": "^20.3.2",
+    "@angular/core": "^20.3.2",
+    "@angular/platform-browser": "^20.3.2",
+    "@testing-library/angular": "^18.1.0",
+    "@testing-library/jest-dom": "^6.8.0",
+    "@types/node": "^24.6.0",
+    "jsdom": "^27.0.0",
+    "ng-packagr": "^20.3.0",
+    "typescript": "^5.9.2",
+    "vite-tsconfig-paths": "^5.1.4",
+    "vitest": "^3.2.4",
+    "zone.js": "^0.15.1"
+  }
+}
