@@ -5,7 +5,9 @@
     "test": "vitest"
   },
   "devDependencies": {
+    "@analogjs/vite-plugin-angular": "^1.21.1",
     "@analogjs/vitest-angular": "^1.21.1",
+    "@angular/build": "^20.3.2",
     "@angular/common": "^20.3.2",
     "@angular/compiler": "^20.3.2",
     "@angular/core": "^20.3.2",
